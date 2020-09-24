@@ -2,7 +2,7 @@ require"pry"
 
 class Dog
   def initialize(name, breed)
-    binding.pry
+    #binding.pry
     @name = name
     @breed = "Mutt" if breed == nil
     end
