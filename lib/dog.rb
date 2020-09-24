@@ -9,7 +9,7 @@ class Dog
            @breed = breed
          else
       breed = "Mutt"
-
+@breed = breed
   end
 
 
