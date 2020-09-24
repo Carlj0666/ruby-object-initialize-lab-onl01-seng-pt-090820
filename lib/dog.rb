@@ -7,6 +7,7 @@ class Dog
     @name = name
     if breed != nil
       breed = "Mutt"
+    end
      @breed = breed
     end
   end
@@ -29,6 +30,5 @@ class Dog
     @breed
   end
   
-end
   end
 end
