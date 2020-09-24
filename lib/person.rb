@@ -3,5 +3,5 @@ class Person
     @name = name
   end
   
-  
+  def name=
 end
