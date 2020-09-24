@@ -1,6 +1,7 @@
 require"pry"
 
 class Dog
+  
   def initialize(name, breed)
     #binding.pry
     @name = name
@@ -28,6 +29,7 @@ end
   def breed
     @breed
   end
+
 
   end
 end
