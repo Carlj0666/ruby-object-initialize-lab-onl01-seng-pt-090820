@@ -6,7 +6,7 @@ class Dog
     @name = name
     if !breed
     @breed = "Mutt"
-    end
+    #end
   end
 end
 
