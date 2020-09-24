@@ -5,7 +5,7 @@ class Dog
     #binding.pry
     @name = name
     @breed = breed
-    breed* = "Mutt"
+    breed = "Mutt"
     end
   end
 end
