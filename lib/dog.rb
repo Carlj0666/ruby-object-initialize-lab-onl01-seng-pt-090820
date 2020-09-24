@@ -6,7 +6,7 @@ class Dog
     @name = name
     if breed == nil
     breed = "Mutt"
-    @breed = name
+    @breed = breed
     #end
   end
 end
