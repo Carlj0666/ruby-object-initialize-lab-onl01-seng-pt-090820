@@ -8,7 +8,6 @@ class Dog
       breed = "Mutt"
      end
      @breed = breed
-   end
     end
   end
 end
