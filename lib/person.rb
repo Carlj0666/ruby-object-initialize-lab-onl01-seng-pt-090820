@@ -9,5 +9,6 @@ class Person
   
   def breed
     @name
+  end
     
 end
