@@ -6,8 +6,10 @@ class Dog
     #binding.pry
     @name = name
     if breed != nil
+           @breed = breed
+         else
       breed = "Mutt"
-     @breed = breed
+
   end
 
 
