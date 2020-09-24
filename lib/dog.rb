@@ -1,7 +1,7 @@
 require"pry"
 
 class Dog
-  def initialize(name, breed, breed*)
+  def initialize(name, breed)
     #binding.pry
     @name = name
     @breed = breed
