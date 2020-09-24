@@ -4,8 +4,9 @@ class Dog
   def initialize(name, breed)
     #binding.pry
     @name = name
-    if !breed
-    @breed = "Mutt"
+    if breed == nil
+    breed = "Mutt"
+    @breed = name
     #end
   end
 end
