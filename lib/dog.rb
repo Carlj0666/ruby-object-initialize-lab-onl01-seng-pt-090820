@@ -5,9 +5,10 @@ class Dog
     #binding.pry
     @name = name
     @breed = "Mutt" unless breed
-  end
+
     end
   end
+end
 
 
   def name=(name)
