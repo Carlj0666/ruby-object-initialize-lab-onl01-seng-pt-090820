@@ -11,6 +11,7 @@ class Dog
     end
   end
 end
+end
 
 
   def name=(name)
