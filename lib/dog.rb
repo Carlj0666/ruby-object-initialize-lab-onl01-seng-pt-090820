@@ -3,7 +3,7 @@ class Dog
     @name = name
     @breed = breed
     
-    if @breed == nil
+    if @breed == undefined
       @breed = "Mutt"
     end
   end
