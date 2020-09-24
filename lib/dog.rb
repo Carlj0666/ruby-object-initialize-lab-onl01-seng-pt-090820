@@ -6,7 +6,7 @@ class Dog
     @name = name
     breed = "Mutt"
     @breed = breed
-    #end
+    end
   end
 end
 
