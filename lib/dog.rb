@@ -3,12 +3,13 @@ require"pry"
 class Dog
   
   def initialize(name, breed)
+    #binding.pry
     @name = name
-    if breed == nil
-    end
+    if breed != nil
       breed = "Mutt"
-    else
-@breed = breed
+    end\\\
+     @breed = breed
+    end
   end
 
 
